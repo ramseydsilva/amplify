@@ -24,7 +24,9 @@
   "engines": {
     "node": "*"
   },
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "1.11.0"
+  },
   "devDependencies": {
     "anvil.uglify": "0.1.0",
     "rimraf": "2.0.1",
